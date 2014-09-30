@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/workspace/ProfitCalc/bin/dexedLibs/android-support-v7-appcompat-ce25dd2cb2c3893be3dda36e77cd9da5.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/workspace/ProfitCalc/bin/dexedLibs/android-support-v4-024006b9f47a07d8b8daac237326089d.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/workspace/ProfitCalc/bin/dexedLibs/appcompat_v7-8f0c53d33c3ea9ed00b8a4140283b9f3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/workspace/ProfitCalc/bin/dexedLibs/google-play-services_lib-a6c6900acba2116c5a87823d57394ec9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/hp/workspace/ProfitCalc/bin/dexedLibs/google-play-services-e933b1fce7d781c3cb3be57fa0c89b3a.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
